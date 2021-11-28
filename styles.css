@@ -328,7 +328,7 @@ a {
 }
 
 .about__card a {
-  font-weight: 500;
+  font-weight: 54000;
   color: var(--main-accent);
 }
 
@@ -600,6 +600,11 @@ a {
   padding: 20px;
   width: 100%;
   color: #fff;
+}
+
+.sticky__footer a {
+  font-weight: 54000;
+  color: var(--main-accent);
 }
 
 .heart {

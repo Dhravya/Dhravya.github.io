@@ -99,7 +99,7 @@
         "duration": 0.8
       },
       "push": {
-        "particles_nb": 5
+        "particles_nb": 10
       },
       "remove": {
         "particles_nb": 2
